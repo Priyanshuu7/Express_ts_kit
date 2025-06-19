@@ -4,6 +4,8 @@
 
 ```js
 npm install && npm run dev
+
+make sure to run [npm run dev] twice
 ```
 
 **Now All Set you can open below url to see your page**
